@@ -1,0 +1,10 @@
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\bin\Debug\mastermind.exe.config
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\bin\Debug\mastermind.exe
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\bin\Debug\mastermind.pdb
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\obj\Debug\mastermind.csprojResolveAssemblyReference.cache
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\obj\Debug\mastermind.FrmGame.resources
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\obj\Debug\mastermind.Properties.Resources.resources
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\obj\Debug\mastermind.csproj.GenerateResource.Cache
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\obj\Debug\mastermind.exe
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\obj\Debug\mastermind.pdb
+c:\users\fgetce\documents\visual studio 2015\Projects\mastermind\mastermind\obj\Debug\mastermind.FrmAbout.resources
